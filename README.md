@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luk-fontain
 - 👀 I’m interested in ...web developer.
-- 🌱 I’m currently learning ...Css.
+- 🌱 I’m currently learning web developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
