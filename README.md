@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luciano
 - 👀 I’m interested in ...web developer, rock climbing, trekking, bike, techno, garden, ping-pong.
 - 🌱 I’m currently learning web developer.
-- 💞️ I’m looking to collaborate on ...ngos against climate change.
+- 💞️ I’m looking to collaborate on ...NGOs against climate change.
 - 📫 How to reach me ... luciano_rios@gmx.de
 
 <!---
